@@ -18,6 +18,8 @@
 
 ## 4. Algorithm Design & Step-by-Step Explanation
 - Explain which approach you are choosing to follow and why you are prefering that
+- Implement the simplest logic for this approach in terms of understandability and explainability of the solution to others.
+- The solution should not have too much complex jargon and should easily be able to process and understand it.
 - For your chosen approach, provide a step-by-step breakdown of how you would develop a solution.
 - can you give me a block diagram or some sort of visual understanding of the solution
 - Take the example test cases provided in the problem and explain the logic through what happens to the test cases visually so that I will understand the logic quickly.
