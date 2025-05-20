@@ -17,6 +17,7 @@
 - Explain the pros and cons of each approach.
 
 ## 4. Algorithm Design & Step-by-Step Explanation
+- Explain which approach you are choosing to follow and why you are prefering that
 - For your chosen approach, provide a step-by-step breakdown of how you would develop a solution.
 - can you give me a block diagram or some sort of visual understanding of the solution
 - Take the example test cases provided in the problem and explain the logic through what happens to the test cases visually so that I will understand the logic quickly.
