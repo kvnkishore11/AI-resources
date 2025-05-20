@@ -18,6 +18,8 @@
 
 ## 4. Algorithm Design & Step-by-Step Explanation
 - For your chosen approach, provide a step-by-step breakdown of how you would develop a solution.
+- can you give me a block diagram or some sort of visual understanding of the solution
+- Take the example test cases provided in the problem and explain the logic through what happens to the test cases visually so that I will understand the logic quickly.
 - Include the base condition/hypothesis/inductive step if it involves recursion/backtracking, or explain your iterative strategy, state transitions, and how you ensure correctness otherwise.
 
 ## 5. Pseudo-code or Sample Code
