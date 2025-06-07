@@ -169,14 +169,6 @@ By following this test-driven development approach, you ensure that every featur
 
 This document outlines the standards for writing Git commit messages and code comments to maintain consistency and clarity across the project.
 
-## Table of Contents
-- [Commit Message Format](#commit-message-format)
-- [Commit Types](#commit-types)
-- [Title Guidelines](#title-guidelines)
-- [Body Guidelines](#body-guidelines)
-- [Code Comment Guidelines](#code-comment-guidelines)
-- [Examples](#examples)
-- [Quick Reference](#quick-reference)
 
 ## Commit Message Format
 
