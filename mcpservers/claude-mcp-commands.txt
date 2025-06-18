@@ -1,0 +1,5 @@
+claude mcp add Context7 npx -- -y @upstash/context7-mcp
+
+claude mcp add desktop-commander npx -- -y @smithery/cli@latest run @wonderwhy-er/desktop-commander --key 02a74f94-f4f1-4d99-bf5f-d90d1fbb8875
+
+claude mcp add puppeteer node -- /Users/kvnkishore/.nvm/versions/node/v18.18.0/lib/node_modules/@modelcontextprotocol/server-puppeteer/dist/index.js
